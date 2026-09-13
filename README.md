@@ -1,12 +1,15 @@
 # 👋 Hi, I'm Jingxiang Zhang
 
-**Software Engineer @ NVIDIA DGX Cloud**  
-Building intelligent infrastructure for GPU fleets and AI-driven operations.
+**Software Engineer @ NVIDIA DGX Cloud**
 
-- AI cloud infrastructure  
-- Agentic AI systems and automation  
-- ML systems and reliability  
+Building infrastructure and intelligent systems for large-scale AI compute.
 
-🎓 Georgia Tech (M.S. Computer Science) • Columbia (M.S. Data Science) • Tsinghua (B.Eng.)
+- GPU fleet management, observability, and reliability
+- Agentic automation for infrastructure diagnostics and operations
+- Distributed systems, AI infrastructure, and ML serving
 
-📫 [jingxiangzhang98@gmail.com](mailto:jingxiangzhang98@gmail.com) | [LinkedIn](https://www.linkedin.com/in/jingxiangzhang/) | [GitHub](https://github.com/jingxiang-z)
+🎓 **Georgia Tech** — M.S. Computer Science  
+🎓 **Columbia University** — M.S. Data Science  
+🎓 **Tsinghua University** — B.Eng.
+
+📫 [Email](mailto:jingxiangzhang98@gmail.com) · [LinkedIn](https://www.linkedin.com/in/jingxiangzhang/) · [GitHub](https://github.com/jingxiang-z)
